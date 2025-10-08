@@ -23,29 +23,29 @@
 ###
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=cs" height="50" alt="csharp logo"  />
-  <img width="20" />
-  <img src="https://skillicons.dev/icons?i=unity" height="50" alt="unity logo"  />
-  <img width="20" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="50" alt="css logo"  />
-  <img width="20" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="50" alt="javascript logo"  />
-  <img width="20" />
-  <img src="https://skillicons.dev/icons?i=html" height="50" alt="html5 logo"  />
-  <img width="20" />
-  <img src="https://skillicons.dev/icons?i=java" height="50" alt="java logo"  />
-  <img width="20" />
-  <img src="https://skillicons.dev/icons?i=arduino" height="50" alt="arduino logo"  />
-  <img width="20" />
-  <img src="https://skillicons.dev/icons?i=py" height="50" alt="python logo"  />
-  <img width="20" />
-  <img src="https://skillicons.dev/icons?i=discord" height="50" alt="discord logo"  />
-  <img width="20" />
-  <img src="https://skillicons.dev/icons?i=git" height="50" alt="git logo"  />
-  <img width="20" />
-  <img src="https://skillicons.dev/icons?i=vscode" height="50" alt="vscode logo"  />
-  <img width="20" />
-  <img src="https://skillicons.dev/icons?i=github" height="50" alt="github logo"  />
+  <img src="https://skillicons.dev/icons?i=cs" height="45" alt="csharp logo"  />
+  <img width="15" />
+  <img src="https://skillicons.dev/icons?i=unity" height="45" alt="unity logo"  />
+  <img width="15" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="45" alt="css logo"  />
+  <img width="15" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="45" alt="javascript logo"  />
+  <img width="15" />
+  <img src="https://skillicons.dev/icons?i=html" height="45" alt="html5 logo"  />
+  <img width="15" />
+  <img src="https://skillicons.dev/icons?i=java" height="45" alt="java logo"  />
+  <img width="15" />
+  <img src="https://skillicons.dev/icons?i=arduino" height="45" alt="arduino logo"  />
+  <img width="15" />
+  <img src="https://skillicons.dev/icons?i=py" height="45" alt="python logo"  />
+  <img width="15" />
+  <img src="https://skillicons.dev/icons?i=discord" height="45" alt="discord logo"  />
+  <img width="15" />
+  <img src="https://skillicons.dev/icons?i=git" height="45" alt="git logo"  />
+  <img width="15" />
+  <img src="https://skillicons.dev/icons?i=vscode" height="45" alt="vscode logo"  />
+  <img width="15" />
+  <img src="https://skillicons.dev/icons?i=github" height="45" alt="github logo"  />
 </div>
 
 ###
@@ -80,10 +80,8 @@
 
 ###
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/IHateNamo/IHateNamo/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/IHateNamo/IHateNamo/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/IHateNamo/IHateNamo/output/pacman-contribution-graph.svg">
-</picture>
+<div align="center">
+  <img src="https://count.getloli.com/@:IHateNamo?theme=rule34&padding=6&offset=3&scale=0.8&align=top&pixelated=1&darkmode=auto"  />
+</div>
 
 ###
