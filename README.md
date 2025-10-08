@@ -1,29 +1,79 @@
-<h1 align="center">Hi 👋, I'm Thammati Jarutakanon</h1>
-<h3 align="center">I'm passionate in Game Development and Web Development</h3>
+<h2 align="left">👋 Hey there—I'm Pangya.</h2>
 
-- 🔭 I’m currently working on [Monsterium Manager](https://github.com/infinityRIP/Monsterium_Manager_3D)
+###
 
-- 🌱 I’m currently learning **Html css and Some Basic of JS**
+<h2 align="left">Welcome to my backyard of the internet—where code collides with creativity. 🚀 I build, learn, and ship things that make tech more fun.</h2>
 
-- 👯 Project That i collaboration with. [TheObserver](https://github.com/infinityRIP/TheObserver)
+###
 
-- 👨‍💻 All of my projects are available at [https://pangyao.itch.io/](https://pangyao.itch.io/)
+<h3 align="left">🧠 Skills</h3>
 
-- 💬 Ask me about **Unity C#**
+###
 
-- 📫 How to reach me **thamatijaru@gmail.com**
+<p align="left">• 🎮 Game Development <br>•🧩 intermediate Programming <br>•🔌 IoT & Embedded Systems <br>•🎨 UI/UX & Pixel Art Design</p>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://fb.com/thammati.jarutakanon" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="thammati.jarutakanon" height="30" width="40" /></a>
-<a href="https://instagram.com/p.ang_ya_0" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="p.ang_ya_0" height="30" width="40" /></a>
-</p>
+###
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> </p>
+<h3 align="left">🌱 Currently</h3>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ihatenamo&show_icons=true&locale=en&layout=compact" alt="ihatenamo" /></p>
+###
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ihatenamo&show_icons=true&locale=en" alt="ihatenamo" /></p>
+<p align="left">- 🛠️ Working on: My Main game  Monsterium Manager<br>- 📚 Learning: JavaScript/TypeScript <br>- 🔍 Exploring: Full-stack Linux & Automation<br>- 🤝 Looking to collaborate on: gameplay systems<br>- 🧰 Programming Languages & Tools:</p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ihatenamo&" alt="ihatenamo" /></p>
+###
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=cs" height="50" alt="csharp logo"  />
+  <img width="20" />
+  <img src="https://skillicons.dev/icons?i=unity" height="50" alt="unity logo"  />
+  <img width="20" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="50" alt="css logo"  />
+  <img width="20" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="50" alt="javascript logo"  />
+  <img width="20" />
+  <img src="https://skillicons.dev/icons?i=html" height="50" alt="html5 logo"  />
+  <img width="20" />
+  <img src="https://skillicons.dev/icons?i=java" height="50" alt="java logo"  />
+  <img width="20" />
+  <img src="https://skillicons.dev/icons?i=arduino" height="50" alt="arduino logo"  />
+  <img width="20" />
+  <img src="https://skillicons.dev/icons?i=py" height="50" alt="python logo"  />
+  <img width="20" />
+  <img src="https://skillicons.dev/icons?i=discord" height="50" alt="discord logo"  />
+  <img width="20" />
+  <img src="https://skillicons.dev/icons?i=git" height="50" alt="git logo"  />
+  <img width="20" />
+  <img src="https://skillicons.dev/icons?i=vscode" height="50" alt="vscode logo"  />
+  <img width="20" />
+  <img src="https://skillicons.dev/icons?i=github" height="50" alt="github logo"  />
+</div>
+
+###
+
+<div align="center">
+  <img height="200" src="https://media1.tenor.com/m/J2zTtDMTN94AAAAC/anime-emilia.gif"  />
+</div>
+
+###
+
+<div align="center">
+  <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
+  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
+  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
+  <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1877F2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="facebook logo"  />
+</div>
+
+###
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=IHateNamo&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=IHateNamo&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+</div>
+
+###
+
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/IHateNamo/IHateNamo/output/snake.svg" alt="Snake animation" />
+
+###
