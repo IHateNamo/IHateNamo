@@ -1,9 +1,7 @@
 <h1 align="center">Hi 👋, I'm Thammati Jarutakanon</h1>
 <h3 align="center">I'm passionate in Game Development and Web Development</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ihatenamo" alt="ihatenamo" /></a> </p>
-
-- 🔭 I’m currently working on **Monsterium Manager**
+- 🔭 I’m currently working on [Monsterium Manager](https://github.com/infinityRIP/Monsterium_Manager_3D)
 
 - 🌱 I’m currently learning **Html css and Some Basic of JS**
 
@@ -17,7 +15,9 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://instagram.com/https://www.instagram.com/p.ang_ya_0/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/p.ang_ya_0/" height="30" width="40" /></a>
+<a href="https://fb.com/thammati jarutakanon" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="thammati jarutakanon" height="30" width="40" /></a>
+<a href="https://instagram.com/p.ang_ya_0" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="p.ang_ya_0" height="30" width="40" /></a>
+<a href="https://discord.gg/724426418527666247" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="724426418527666247" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -26,3 +26,5 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ihatenamo&show_icons=true&locale=en&layout=compact" alt="ihatenamo" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ihatenamo&show_icons=true&locale=en" alt="ihatenamo" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ihatenamo&" alt="ihatenamo" /></p>
